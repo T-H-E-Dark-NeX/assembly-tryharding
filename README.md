@@ -1,1 +1,1 @@
-primes using sieve of erastromers in cpu's own language 
+primes using sieve of erastrothenes in cpu's own language 
